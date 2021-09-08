@@ -1,0 +1,7 @@
+dgl-cu101
+transformers==3.0.2
+sklearn
+tensorboardX
+numpy
+pandas
+torch==1.6.0
